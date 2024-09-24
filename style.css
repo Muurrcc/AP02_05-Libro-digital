@@ -1,0 +1,18 @@
+h1{
+    color: rgb(119, 179, 187);
+}
+body{
+    background-color: rgb(205, 242, 243);
+    padding-top: 2%;
+    padding-left: 2%;
+    font-size: 130%;
+}
+ol{
+    color:  rgb(84, 140, 148);
+}
+ul{
+    color:  rgb(69, 110, 116);
+}
+a{
+    text-decoration: none;
+}
